@@ -10,9 +10,9 @@ pipeline {
 
            steps {
 
-               git branch: 'main',
+               git branch: 'master',
 
-               url: 'https://github.com/Mutedly007/Devops.git'
+               url: 'https://github.com/hwafa/timesheetproject.git'
 
           }
 
